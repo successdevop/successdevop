@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @successdevop
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning nodejs and React
+- 🌱 I am currently a junior Java Developer at Decagon Institute
 - 💞️ I’m looking to collaborate on projects that would help improve my skills and also help solve a problem in our society
 - 📫 How to reach me on successraphael28@gmail.com
 
